@@ -1,38 +1,24 @@
-# Hi there, I'm Basheer Adel 👋🏼
+# Basheer Adel
 
-- 📫 How to reach me
+Software developer from Yemen. I've been building software for over 10 years: Android apps, backends and desktop tools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/basheeradel009/)  [![Medium](https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white)](mailto:basheeradel009@gmail.com)
+Most of my work is for clients and lives in private repos.
 
+## What I work with
 
-- 👋 Hi, I’m @Basheer009
-- 👀 I’m interested in Mobile Apps Development
-- 🌱 I’m currently learning Flutter and React
-- 💞️ I’m looking to collaborate on Java or Flutter Android Applications
+- **Android:** Kotlin, Java, Jetpack Compose
+- **Cross-platform:** Flutter
+- **Backend:** Django, Laravel, NestJS, FastAPI
+- **Web:** React, TypeScript, Next.js
+- **Desktop:** Python, .NET, Tauri, Qt
+- **Databases:** PostgreSQL, MySQL, SQLite
 
-## About me 🙂
-....................
+## Open source
 
+- [Brain Up](https://github.com/Brain-up/brn): auditory training for people with hearing difficulties. Collaborator, [registration fix](https://github.com/Brain-up/brn/pull/2985)
+- [Cboard](https://github.com/cboard-org/cboard): communication app for people who can't speak. [Right-to-left layout fix](https://github.com/cboard-org/cboard/pull/2388)
+- [Mastodon for Android](https://github.com/mastodon/mastodon-android): translated the 306 missing Arabic strings
 
-- 🔭 I’m currently working on developing a collaborative drawing application for Android mobile devices
-- 🌱 I’m currently learning AI.
-- 🤔 I’m looking for help with developing, training and integrating Machine Learning model to detect strokes
-- 💬 Ask me about Anime, Football, Android and Mixpanel.
-- 😄 Pronouns: He/Him
+## Contact
 
-## Languages and Tools 🛠
-![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![](https://img.icons8.com/color/48/000000/kotlin.png)
-![](https://img.icons8.com/color/48/000000/android-studio--v3.png) ![](https://img.icons8.com/color/48/000000/git.png) 
-![](https://img.icons8.com/color/48/000000/arduino.png) ![](https://img.icons8.com/color/48/000000/raspberry-pi.png)
-![](https://img.icons8.com/fluency/48/000000/unity.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) 
-
-## My Stats 📊
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Basheer009&show_icons=true&theme=dracula)](https://github.com/Basheer009/Basheer009)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basheer009&layout=compact&theme=dracula)](https://github.com/Basheer009/Basheer009) 
-
-
-<!---
-Basheer009/Basheer009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/basheeradel009/) · [Email](mailto:basheeradel009@gmail.com)
